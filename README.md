@@ -3,9 +3,9 @@
 *Projetos solicitados pela Trybe durante o curso de Desenvolvimento Web.*
 
 
-## Fundamentos do Desenvolvimento Web
+## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-- [x] _[Projeto 01 - Lessons Learned](https://leandrochs.github.io/trybe-projetos/01-fundamentos-do-desenvolvimento-web/projeto01-lessons-learned/index.html){:target="_blank"}_
+- [x] _[Projeto 01 - Lessons Learned](https://leandrochs.github.io/trybe-projetos/01-fundamentos-do-desenvolvimento-web/projeto01-lessons-learned/index.html)_
 - [x] _[Projeto 02 - Playground Functions](https://leandrochs.github.io/trybe-projetos/01-fundamentos-do-desenvolvimento-web/projeto02-playground-functions)_{:target="_blank"}
 
 - [x] _[Projeto 03 - Pixel Art](https://leandrochs.github.io/trybe-projetos/01-fundamentos-do-desenvolvimento-web/projeto03-pixel-art/index.html)_{:target="_blank"}
